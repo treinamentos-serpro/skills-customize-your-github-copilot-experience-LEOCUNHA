@@ -72,6 +72,20 @@
           "type": "python"
         }
       ]
+    },
+    {
+      "id": "testes-unitarios-python",
+      "title": "Testes Unitários com unittest",
+      "description": "Aprenda a criar e executar testes automatizados em Python com unittest, verificando resultados e interpretando falhas.",
+      "path": "assignments/testes-unitarios-python",
+      "dueDate": "2026-11-02",
+      "attachments": [
+        {
+          "name": "Código Inicial",
+          "file": "starter-code.py",
+          "type": "python"
+        }
+      ]
     }
   ]
 }
